@@ -1,0 +1,3 @@
+1. Degisken boyutu bilinmiyorsa hafizasini insanlar ayarlar
+2. Degisken boyutlu herhangi bir object her zaman orjinalini kullanir
+3. Yeni dillerde stringler'de sadece ucuna ekleme yapilabilir, elemanlari degistirilemez
